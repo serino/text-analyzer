@@ -1,0 +1,1 @@
+This app allows the user to type in words and then gives them a read out of how many times as a percentage that the words occurred in their text.
